@@ -45,13 +45,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\EnemyBehaviour.cs" />
-     <Compile Include="Assets\Rocket.cs" />
-     <Compile Include="Assets\RotateAroundItself.cs" />
      <Compile Include="Assets\Scripts\Booster.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\DoorButtonController.cs" />
      <Compile Include="Assets\Scripts\DoorController.cs" />
+     <Compile Include="Assets\Scripts\EnemyBehaviour.cs" />
      <Compile Include="Assets\Scripts\GravityToggleController.cs" />
      <Compile Include="Assets\Scripts\JumperController.cs" />
      <Compile Include="Assets\Scripts\LevelGoalController.cs" />
@@ -59,6 +57,8 @@
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\RisingActivator.cs" />
      <Compile Include="Assets\Scripts\RisingPlatform.cs" />
+     <Compile Include="Assets\Scripts\Rocket.cs" />
+     <Compile Include="Assets\Scripts\RotateAroundItself.cs" />
      <Compile Include="Assets\Scripts\TeleportController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Volumes/HD1/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
